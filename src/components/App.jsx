@@ -9,9 +9,8 @@ const App = () => {
         <section>
           <h1>Oh Hai, React</h1>
         </section>
+        <Recipes />
       </main>
-
-      <Recipes />
     </>
   );
 };
